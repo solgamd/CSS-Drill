@@ -3,14 +3,12 @@ body {
     background: lightgray;
 }
 
-h2, p, a, .readme-wrapper {
+h2, p, .readme-wrapper {
     text-align: center;
 }
-
 a {
     text-decoration: none;
     color: teal;
-    border: 1px;
 }
 a:hover {
     cursor: pointer;
@@ -19,11 +17,21 @@ a:hover {
 }
 .boxes {
     margin: 1em;
-    padding: 2em;
-    border: solid color:orange;
-    border-radius: 5px;
+    padding: 1em;
+    border: 5px orange solid;
+    border-radius: 15px;
     width: 30em;
+    display: block;
 }
+.photo {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: gray;
+    position: absolute;
+    left: 100px;
+}
+
 #boxA {
     background: lightsalmon;
 }
