@@ -59,34 +59,7 @@ a:hover {
     color: palevioletred;
 }
 
-#show1 {
-    color: yellow;
-}
-
-#show2 {
-    color: hotpink;
-}
-
-#show3 {
-    color: seagreen;
-}
-
-#show4 {
-    color: dodgerblue;
-}
-
-#show5 {
-    color: burlywood;
-}
-
-.list {
-    color: khaki;
-}
-
-.star {
-    color: aqua;
-}
-
-#wars {
-    color: aquamarine;
+.list-style {
+    color: steelblue;
+    border: 2px solid black;
 }
