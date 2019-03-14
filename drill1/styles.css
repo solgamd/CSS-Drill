@@ -2,6 +2,9 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background: lightgray;
 }
+h1 {
+    color: slateblue
+}
 
 h2, p, .readme-wrapper {
     text-align: center;
@@ -46,4 +49,44 @@ a:hover {
 
 #boxD {
     background: wheat;
+}
+
+.original {
+    color: brown;
+}
+
+.additional {
+    color: palevioletred;
+}
+
+#show1 {
+    color: yellow;
+}
+
+#show2 {
+    color: hotpink;
+}
+
+#show3 {
+    color: seagreen;
+}
+
+#show4 {
+    color: dodgerblue;
+}
+
+#show5 {
+    color: burlywood;
+}
+
+.list {
+    color: khaki;
+}
+
+.star {
+    color: aqua;
+}
+
+#wars {
+    color: aquamarine;
 }
