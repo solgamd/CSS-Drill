@@ -12,3 +12,30 @@ a {
     color: teal;
     border: 1px;
 }
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: purple;
+}
+.boxes {
+    margin: 1em;
+    padding: 2em;
+    border: solid color:orange;
+    border-radius: 5px;
+    width: 30em;
+}
+#boxA {
+    background: lightsalmon;
+}
+
+#boxB {
+    background: lightsteelblue;
+}
+
+#boxC {
+    background: peru;
+}
+
+#boxD {
+    background: wheat;
+}
